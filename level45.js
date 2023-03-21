@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Am Morgen rannte er direkt nach draußen, um einen Schneemann zu bauen.'
+      img: 'Ráno vyběhl rovnou ven postavit sněhuláka.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Papa hat ihnen geholfen und endlich hatten sie einen prächtigen Schneemann.'
+      img: 'Táta jim pomohl a nakonec měli nádherného sněhuláka.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Tom rannte ins Haus und holte einen alten Hut für seinen Kopf und eine Karotte für seine Nase.'
+      img: 'Tom běžel dovnitř a přinesl starý klobouk na hlavu a mrkev na nos.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Es wurde langsam dunkel.'
+      img: 'Už se stmívalo.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Sie erlebten eine Überraschung, als sie ins Wohnzimmer gingen.'
+      img: 'Když vešli do obýváku, měli překvapení.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Der Weihnachtsbaum war mit funkelnden Lichtern, Lametta und winzigen Spielzeugen bedeckt.'
+      img: 'Vánoční stromeček byl pokrytý blikajícími světýlky, pozlátkem a malými hračkami.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Das Rotkehlchen saß ganz oben auf dem Baum.'
+      img: 'Červenka byla posazená přímo na vrcholu stromu.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Das ist nicht fair.'
+      img: 'To není fér.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Mein Engel sollte ganz oben sein.'
+      img: 'Můj anděl by měl být nahoře.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Kitty ist ins Zimmer geschlendert und hat das Rotkehlchen entdeckt.'
+      img: 'Kitty vešla do pokoje a spatřila červenku.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Endlich war Heiligabend, die Nacht, in der der Weihnachtsmann kommt.'
+      img: 'Konečně byl Štědrý den, noc, kdy přichází Otec Vánoc.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Tom ist ins Bett gegangen, aber er wollte nicht schlafen gehen.'
+      img: 'Tom šel do postele, ale nechtěl jít spát.'
     }
   ]
 

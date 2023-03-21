@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Kauen Sie einfach eine halbe Tablette und spülen Sie dann Ihren Mund mit Wasser aus.'
+      img: 'Jen rozkousej půl tablety a pak si vypláchni ústa vodou.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Er erklärte.'
+      img: 'Vysvětlil.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Die Teile Ihrer Zähne, die am dringendsten gereinigt werden müssen, werden rosa.'
+      img: 'Části vašich zubů, které nejvíce potřebují vyčistit, zrůžoví.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Wir würden lustig aussehen, wenn wir mit rosa Zähnen auf den Spielplatz gingen.'
+      img: 'Vypadali bychom legračně jít na hřiště s růžovými zuby.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Der Chemiker lachte.'
+      img: 'Lékárník se zasmál.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Wenn kein Rosa mehr übrig ist, weißt du, dass deine Zähne sauber sind.'
+      img: 'Když nezůstane žádná růžová, víte, že máte čisté zuby.'
     }
   ]
 

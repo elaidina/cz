@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Sobald er nach Hause kam, probierte er seine neue Zahnbürste aus.'
+      img: 'Jakmile se vrátil domů, vyzkoušel svůj nový kartáček.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Michelle war sehr aufgeregt.'
+      img: 'Michelle byla velmi nadšená.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Es würde bald Weihnachten sein, also schrieb sie ihre Wünsche auf.'
+      img: 'Brzy budou Vánoce, tak napsala svá přání.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wir haben unsere Hüte, Mäntel, Schals und Handschuhe angezogen, weil es draußen kalt war.'
+      img: 'Nasadili jsme si čepice, kabáty, šály a rukavice, protože venku byla zima.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Viele Familien haben sich im Gartencenter Weihnachtsbäume ausgesucht.'
+      img: 'V zahradním centru si vánoční stromky vybíralo mnoho rodin.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Welchen Baum sollen wir nehmen?'
+      img: 'Jaký strom dostaneme?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ich mag das, weil es wirklich groß ist.'
+      img: 'Ten se mi líbí, protože je opravdu velký.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Es ist zu groß, um in unser Auto zu passen.'
+      img: 'Je příliš velký na to, aby se vešel do našeho auta.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Sie haben sich auf einen sehr schönen kleineren Baum geeinigt.'
+      img: 'Dohodli se na moc pěkném menším stromku.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Papa hat einen Wagen für den Baum geholt.'
+      img: 'Táta přinesl vozík pro strom.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Die Kinder haben geholfen, den Trolley zu schieben.'
+      img: 'Děti pomáhaly tlačit vozík.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Sie konnten sich zwei neue Baumdekorationen aussuchen.'
+      img: 'Mohli si vybrat dvě nové ozdoby na stromeček.'
     }
   ]
 
