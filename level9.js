@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Steh nicht hinter mir."
+      img: "Nestoj za mnou."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Ich versuche, das nicht zu tun."
+      img: "Snažím se to nedělat."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Wir lernen Fahrrad fahren."
+      img: "Učíme se jezdit na kole."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Warum weinst du?'
+      img: 'Proč brečíš?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Weil ich mir das Bein gebrochen habe.'
+      img: 'Protože jsem si zlomil nohu.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Und ich habe auch mein Auto kaputt gemacht.'
+      img: 'A taky jsem si rozbil auto.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Kann ich dir helfen, es zu reparieren?'
+      img: 'Můžu ti to pomoci opravit?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hier sind die Schlüssel.'
+      img: 'Tady jsou klíče.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Brich nicht die Regeln.'
+      img: 'Neporušuj pravidla.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ich gehe nicht zur Schule, aber ich kann lesen und schreiben.'
+      img: 'Nechodím do školy, ale umím číst a psát.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ich kann diesen Stein nicht heben.'
+      img: 'Nemůžu zvednout tento kámen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Der Stein ist zu schwer.'
+      img: 'Ten kámen je příliš těžký.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Klebt Augen, Nase und Mund auf die Maske.'
+      img: 'Nalepte oči, nos a ústa na masku.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mein Kleid ist zu kurz und weit.'
+      img: 'Moje šaty jsou příliš krátké a široké.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ich stehe in der Mitte eines Kreises.'
+      img: 'Stojím uprostřed kruhu.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Zieh deine Schuhe an.'
+      img: 'Obuj si boty.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Pass auf dich auf.'
+      img: 'Dávej na sebe pozor.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Lebst du in einer Stadt oder einem Dorf?'
+      img: 'Bydlíš ve městě nebo na vesnici?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Was können Sie sehen?'
+      img: 'Co vidíš?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ich sehe ein Entlein, ein paar Küken, einen Hund und eine Katze.'
+      img: 'Vidím káčátko, nějaká kuřátka, psa a kočku.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Welche Farbe hat die Katze?'
+      img: 'Jakou barvu má ta kočka?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Die Katze ist schwarz.'
+      img: 'Ta kočka je černá.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ich mag Schokoladeneis.'
+      img: 'Mám rád čokoládovou zmrzlinu.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ich höre gerne Geschichten.'
+      img: 'Rád poslouchám příběhy.'
     }
   ]
 

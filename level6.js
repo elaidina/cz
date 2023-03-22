@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Womit kann ich Ihnen behilflich sein?"
+      img: "Jak ti můžu pomoci?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Kannst du mal auf den Tisch schauen?"
+      img: "Můžeš se podívat na stůl?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Det lå under bordetEs war unter dem Tisch.'
+      img: 'Bylo to pod stolem.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ich dachte, es wäre auf dem Schrank oder neben dem Stuhl.'
+      img: 'Myslel jsem, že je to na skříni nebo blízko židle.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Ich baue ein Lego-Auto."
+      img: "Stavím lego auto."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Schau dir dieses kleine Bild an.'
+      img: 'Podívej se na tento malý obrázek.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Es gibt viele Erdbeeren, Kirschen, Himbeeren und Weintrauben.'
+      img: 'Je tam mnoho jahod, třešní, malin a hroznů.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Die Birnen und Aprikosen sind noch nicht reif.'
+      img: 'Hrušky a meruňky ještě nejsou zralé.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hier sind dein Teller, deine Gabel, deine Tasse und dein Löffel.'
+      img: 'Tady máš talíř, vidličku, šálek a lžíci.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ist das deine Tasche oder nicht?'
+      img: 'Je to tvoje taška nebo ne?'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Meine Puppe hat große blaue Augen und lange Haare.'
+      img: 'Moje panenka má velké modré oči a dlouhé vlasy.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Lass uns eine Schere nehmen und ein Herz ausschneiden."
+      img: "Vezmeme nůžky a vystřihneme srdíčko."
     }
   ]
 

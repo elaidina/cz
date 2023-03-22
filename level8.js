@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ich möchte Lehrer werden.'
+      img: 'Chci se stát učitelem.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ich möchte Kinder unterrichten.'
+      img: 'Chci učit děti.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Sie will Ärztin werden.'
+      img: 'Chce se stát lékařkou.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ihr Traum ist es, Menschen zu heilen.'
+      img: 'Jejím snem je léčit lidi.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Kannst du ein Auto fahren?'
+      img: 'Umíš řídit auto?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ja, ich bin ein guter Fahrer.'
+      img: 'Ano, jsem dobrý řidič.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Wie viele Autos hast du?"
+      img: "Kolik máš aut?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Ich habe zwei Autos und drei Fahrräder."
+      img: "Mám dvě auta a tři kola."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Komm und spiel Karten mit mir.'
+      img: 'Pojď si se mnou zahrát karty.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ich würde lieber Basketball spielen.'
+      img: 'Raději bych hrál basketbal.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Kannst du gut Fußball spielen?'
+      img: 'Jsi dobrý v hraní fotbalu?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Gar nicht.'
+      img: 'Vůbec ne.'
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())

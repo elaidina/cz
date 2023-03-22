@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ich bin größer und dicker als er.'
+      img: 'Jsem vyšší a větší než on.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Aber er ist schwächer als ich.'
+      img: 'Ale je slabší než já.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Übertreibe nicht.'
+      img: 'Nepřeháněj.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wie wird das Wetter morgen?'
+      img: 'Jaké bude zítra počasí?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Es sollte regnen und kalt sein.'
+      img: 'Mělo by pršet a být zima.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Soll ich einen Regenschirm mitnehmen?'
+      img: 'Mám si vzít deštník?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Bitte vergessen Sie nicht, einen Regenschirm oder Regenmantel mitzunehmen.'
+      img: 'Prosím, nezapomeň si vzít deštník nebo pláštěnku.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Trink viel Tee, wenn dir kalt ist.'
+      img: 'Pijte hodně čaje, když je vám zima.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Fühlst du dich krank?'
+      img: 'Je ti špatně?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ich bin seit zwei Wochen krank.'
+      img: 'Byl jsem dva týdny nemocný.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Trockne dein Haar mit diesem Handtuch.'
+      img: 'Vysušte si vlasy tímto ručníkem.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Du musst dich warm halten.'
+      img: 'Potřebuješ se držet v teple.'
     }
   ]
 

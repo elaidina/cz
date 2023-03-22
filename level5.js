@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Geh zur Tür."
+      img: "Jděte ke dveřím."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Kannst du die Tür schließen?"
+      img: "Můžeš zavřít dveře?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Was machst du gerade?"
+      img: "Co právě děláš?"
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Ich zeichne eine Blume."
+      img: "Kreslím květinu."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Ich male mit meinen neuen Wasserfarben."
+      img: "Maluji svými novými vodovými barvami."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: "Du musst frühstücken."
+      img: "Musíš sníst svou snídani."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Was haben wir zum Frühstück?"
+      img: "Co máme k snídani?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Es gibt Milch, Brot und Butter."
+      img: "Je tam mléko, chléb a máslo."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: "Ich will keine Milch trinken."
+      img: "Nechci pít mléko."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: "Was möchten Sie trinken?"
+      img: "Co si dáte k pití?"
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ich habe keinen Durst mehr.'
+      img: 'Už nemám žízeň.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Ich suche meine Brieftasche."
+      img: "Hledám svou peněženku."
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())

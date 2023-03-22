@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
       name: '2',
       img: 'Michelle was very excited.'
     },
-    {
+    { 
       name: '2',
       img: 'Michelle byla velmi nadšená.'
     },

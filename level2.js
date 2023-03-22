@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Nein, habe ich nicht."
+      img: "Ne, nemám."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Die Sonne scheint und es ist warm."
+      img: "Slunce svítí a je teplo."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Was möchtest du tun?"
+      img: "Co bys rád dělal?"
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Ich möchte ausgehen."
+      img: "Chtěl bych jít ven."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Entschuldigung, wer bist du?"
+      img: "Promiň, kdo jsi?"
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: "Hallo, mein Name ist Tom."
+      img: "Ahoj, jmenuji se Tom."
     },
     {
       name: '7',
@@ -55,11 +55,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Ist Tom ein guter Freund?"
+      img: "Je Tom dobrý kamarád?"
     },
     {
       name: '8',
-      img: "Nein, ist er nicht."
+      img: "Ne. Není."
     },
     {
       name: '8',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: "Der große Junge ist mein Freund."
+      img: "Ten vysoký chlapec je můj kamarád."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: "Komm her und setz dich."
+      img: "Pojď sem a posaď se."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: "Michelle, leih mir bitte deinen Stift."
+      img: "Miško, půjč mi své pero, prosím."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Lass uns mit einem Ball spielen."
+      img: "Pojďme si hrát s míčem."
     }
   ]
 

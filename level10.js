@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Zeichnen ist schwierig.'
+      img: 'Kreslení je obtížné.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Wie baut man ein Haus?'
+      img: 'Jak se staví dům?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Das Haus besteht aus Wänden, einem Dach, Fenstern, einem Schornstein, einem Zaun und einer Tür.'
+      img: 'Dům se skládá ze zdí, střechy, oken, komína, plotu a dveří.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Der blaue Ball ist größer als der rote Ball.'
+      img: 'Modrá koule je větší než ta červená.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Welcher Ball ist der größte?'
+      img: 'Který míč je největší?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ich möchte ein englisches Lied lernen..'
+      img: 'Chtěl bych se naučit anglickou písničku.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Wir können Mary anrufen.'
+      img: 'Můžeme zavolat Mary.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Sie ist eine sehr gute Sängerin.'
+      img: 'Je to velmi dobrá zpěvačka.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hör mal, kennst du dieses Lied?'
+      img: 'Poslouchej, znáš tuhle písničku?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Da steht ein geniales Buch im Regal.'
+      img: 'Na polici je skvělá kniha.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ich lese dieses Buch oft.'
+      img: 'Často čtu tuto knihu.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ich bin zu klein, um das Buch im Regal zu erreichen.'
+      img: 'Jsem příliš malý na to, abych dosáhl na knihu na polici.'
     }
   ]
 
