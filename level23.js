@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ich mag den Sommer, weil Papa mir viel Eis kauft.'
+      img: 'Mám ráda léto, protože mi táta kupuje hodně zmrzliny.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Der Wald ist im Herbst sehr bunt.'
+      img: 'Les je na podzim velmi barevný.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Die Felder, Hügel, Häuser und Bäume sind im Winter mit Schnee bedeckt.'
+      img: 'Pole, kopce, domy a stromy jsou v zimě pokryty sněhem.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wir bauen mit meinen Freunden einen Schneemann.'
+      img: 'S mými přáteli děláme sněhuláka.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Meine Tante füttert ihre Hühner und Enten mit Mais und Weizen.'
+      img: 'Moje teta krmí své slepice a kachny kukuřicí a pšenicí.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Sie gießt etwas Milch in ihre Schüssel.'
+      img: 'Nalévá trochu mléka do misky.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Die kleinen Kätzchen sind süß und lustig.'
+      img: 'Malá koťátka jsou roztomilá a zábavná.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Sie stecken immer ihre Pfoten in die Schüssel und verschütten die Milch.'
+      img: 'Vždycky strčí tlapky do misky a rozlijí mléko.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Mein Onkel ist sehr praktisch.'
+      img: 'Můj strýc je velmi šikovný..'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Er pflanzt Gemüse und Blumen.'
+      img: 'Sází zeleninu a květiny.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Oma macht sehr gute Marmelade und Kompott.'
+      img: 'Babička dělá moc dobrou marmeládu a kompoty.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ich helfe Opa beim Pflücken von Äpfeln, Birnen, Weintrauben und Pflaumen.'
+      img: 'Pomáhám dědovi sbírat jablka, hrušky, hrozny a švestky.'
     }
   ]
 

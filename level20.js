@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ich würde gerne ein paar Blumen für meine Mutter pflücken.'
+      img: 'Chtěl bych natrhat nějaké květiny pro svou mámu.'
     },
     {
       name: '2',
@@ -15,15 +15,15 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Die Äpfel sind reif und rund.'
+      img: 'Jablka jsou zralá a kulatá.'
     },
     {
       name: '3',
       img: 'I found a lot of presents under the Christmas tree.'
     },
     {
-      name: '3',
-      img: 'Ich habe viele Geschenke unter dem Weihnachtsbaum gefunden.'
+      name: '3', 
+      img: 'Našel jsem pod vánočním stromečkem spoustu dárků.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ich bügele nicht gerne.'
+      img: 'Nemám rád žehlení.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ich bin heute zu beschäftigt.'
+      img: 'Dnes jsem příliš zaneprázdněn.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Schau dich um.'
+      img: 'Podívej se kolem sebe.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Wie viele interessante Dinge kannst du sehen?'
+      img: 'Kolik zajímavých věcí můžete vidět?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ich kenne viele Menschen, Tiere, Häuser, Bäume und Blumen.'
+      img: 'Znám spoustu lidí, zvířat, domů, stromů a květin.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Aber weißt du alles?'
+      img: 'Ale víš všechno?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Niemand weiß alles.'
+      img: 'Nikdo neví všechno.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Manche Erwachsenen kennen viele Lieder für Kinder.'
+      img: 'Někteří dospělí znají spoustu písniček pro děti.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Manche Leute können keine Autos reparieren."
+      img: "Někteří lidé nedokážou opravit auta."
     }
   ]
 

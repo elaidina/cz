@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Es gibt eine Brücke über den Fluss.'
+      img: 'Přes řeku je most.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Es spielt keine Rolle.'
+      img: 'Na tom nezáleží.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Wir können Wasser oder Orangensaft trinken."
+      img: "Můžeme pít vodu nebo pomerančový džus."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Du schwimmst wie ein Hund.'
+      img: 'Plaveš jako pes.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ich schwimme wie eine Katze.'
+      img: 'Plavu jako kočka.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Sprechen Sie Englisch?'
+      img: 'Umíš mluvit anglicky?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ich fahre am Montag ab.'
+      img: 'Odjíždím v pondělí.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Es tut mir sehr leid, dass ich gehen muss.'
+      img: 'Je mi moc líto, že musím odejít.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Wir möchten uns von Ihnen verabschieden.'
+      img: 'Rádi bychom se s vámi rozloučili.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Schade, dass du gehst.'
+      img: 'Škoda, že odcházíš.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Pass auf dich auf und viel Glück.'
+      img: 'Opatrujte se a hodně štěstí.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ich genieße viel Schnee im Januar.'
+      img: 'V lednu si užívám hodně sněhu.'
     }
   ]
 

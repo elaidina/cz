@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Sie sind sehr schmutzig und fett, aber auch lustig.'
+      img: 'Jsou velmi špinavé a tlusté, ale také zábavné.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Sie spielen gerne im Matsch.'
+      img: 'Rádi si hrají v blátě.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Die Kinder spielen gerne im Hof.'
+      img: 'Děti si rády hrají na dvoře.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Sie freuen sich darauf, eine Hütte zu bauen.'
+      img: 'Těší se, až si postaví chatku.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Sie brauchen einen Hammer, Nägel und Bretter.'
+      img: 'Potřebují kladivo, hřebíky a prkna.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ich helfe ihnen gerne, die Bretter zu hämmern.'
+      img: 'Rád bych jim pomohl zatlouct prkna.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Helfen Sie uns lieber, die Nägel einzuschlagen.'
+      img: 'Spíše nám pomozte zatlouct hřebíky.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Wie gefällt dir die fertige Hütte?'
+      img: 'Jak se ti líbí hotová chatka?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Es ist die beste Hütte aller Zeiten..'
+      img: 'Je to ta nejlepší chatka vůbec.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Es ist ein herrlich heißer Tag.'
+      img: 'Je krásný horký den.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Die Kinder sind am Flussufer.'
+      img: 'Děti jsou u řeky.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Überall ist viel Sand.'
+      img: 'Všude je spousta písku.'
     }
   ]
 

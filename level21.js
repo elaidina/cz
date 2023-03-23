@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Wir lernen, weil wir die Welt um uns herum kennenlernen wollen.'
+      img: 'Učíme se, protože chceme poznat svět kolem nás.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Wir wollen auch wissen, wie man Dinge herstellt.'
+      img: 'Také chceme vědět, jak dělat věci.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mein Freund hat einen kleinen Bruder.'
+      img: 'Můj přítel má malého bratra.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Er will alles wissen.'
+      img: 'Chce vědět všechno.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Er stellt immer Fragen.'
+      img: 'Vždycky klade otázky.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Leben Menschen auf dem Mond?'
+      img: 'Žijí lidé na Měsíci?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Warum arbeiten Menschen?'
+      img: 'Proč lidé pracují?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Essen und trinken Blumen?'
+      img: 'Jedí a pijí květiny?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ich gehe zu meinem Vater und frage ihn.'
+      img: 'Jdu za otcem a zeptám se ho.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Er weiß eine Menge Dinge.'
+      img: 'Ví toho spoustu.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ich wohne in einem Wohnblock.'
+      img: 'Bydlím v paneláku.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Bei uns zu Hause gibt es keinen Schornstein.'
+      img: 'V našem domě není žádný komín.'
     }
   ]
 

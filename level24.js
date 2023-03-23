@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Er sagt, dass ich mehr Obst in meinen Bauch stecke als in den Korb.'
+      img: 'Říká, že si dávám více ovoce do bříška než do košíku.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Im Winter baut Opa ein Vogelhaus und hängt es in den Baum.'
+      img: 'V zimě děda udělá budku pro ptáky a pověsí ji na strom.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Er legt dort etwas Futter hin, damit die Vögel im kalten Winter nicht hungern.'
+      img: 'Dává tam nějaké jídlo, aby ptáci neměli hlad v chladné zimě.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wir müssen sie beschützen, weil sie uns helfen.'
+      img: 'Musíme je chránit, protože nám pomáhají.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Sie fressen Insekten.'
+      img: 'Jedí hmyz.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Einige Insekten können die Pflanzen schädigen.'
+      img: 'Některý hmyz může poškodit rostliny.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Warum haben wir kein Eis zum Frühstück?'
+      img: 'Proč si nedáme k snídani zmrzlinu?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Es schneit und es weht ein kalter Wind.'
+      img: 'Sněží a fouká studený vítr.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Der Tee ist zu bitter.'
+      img: 'Čaj je příliš hořký.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Zitronensaft macht es saurer.'
+      img: 'Citrónová šťáva to udělá kyselejší.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ich esse mein Frühstück auf und gehe aus.'
+      img: 'Sním snídani a jdu ven.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Das Eis ist glatt.'
+      img: 'Led je kluzký.'
     }
   ]
 

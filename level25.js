@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Fall nicht.'
+      img: 'Nespadni.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Geh langsam.'
+      img: 'Choď pomalu.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Meine Freunde bauen einen Schneemann.'
+      img: 'Moji kamarádi dělají sněhuláka.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Mein Geburtstag ist im Winter.'
+      img: 'Moje narozeniny jsou v zimě.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Die Leute haben nur einmal im Jahr Geburtstag.'
+      img: 'Lidé mají narozeniny jen jednou za rok.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Es ist schade.'
+      img: 'Je to škoda.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Meine Tochter wurde am Donnerstag geboren.'
+      img: 'Moje dcera se narodila ve čtvrtek.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Niemand weiß, warum die Katze so fett ist.'
+      img: 'Nikdo neví, proč je ta kočka tak tlustá.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Das kleine Mädchen kann den Pullover zuknöpfen, aber sie kann den Reißverschluss der Jacke nicht schließen. '
+      img: 'Ta holčička umí zapnout knoflíky na svetru, ale neumí si zapnout zip na bundě. '
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Sie spielt gerne mit Wasser im Badezimmer.'
+      img: 'Ráda si hraje s vodou v koupelně.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Sie wäscht ihre Socken, ihr Hemd und ihren Schlafanzug.'
+      img: 'Pere si ponožky, košili a pyžamo.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Überall ist viel Wasser..'
+      img: 'Všude je spousta vody.'
     }
   ]
 

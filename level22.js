@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ich mag es nicht, meiner Mutter in der Küche zu helfen.'
+      img: 'Nerad pomáhám mámě v kuchyni.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ich spiele lieber auf dem Spielplatz.'
+      img: 'Raději si hraji na hřišti.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ich decke immer den Tisch.'
+      img: 'Vždycky prostírám stůl.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Das Wohnzimmer ist das größte Zimmer in unserer Wohnung.'
+      img: 'Obývací pokoj je největší místností v našem bytě.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Mein Vater arbeitet hier an seinem Computer.'
+      img: 'Můj táta tady pracuje na svém počítači.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ich spiele lieber Computerspiele.'
+      img: 'Dávám přednost hraní her na počítači.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Kleine Kinder spielen im Sandkasten.'
+      img: 'Malé děti si hrají na pískovišti.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Zieh deine saubere Hose an.'
+      img: 'Oblékni si čisté kalhoty.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Im Frühling ist das Land schön.'
+      img: 'Na jaře je země krásná.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Bäume, Wiesen und Gärten sind voller Blumen.'
+      img: 'Stromy, louky a zahrady jsou plné květin.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Wir gehen zum See, der nicht weit von unserer Stadt entfernt ist.'
+      img: 'Jedeme k jezeru, které není daleko od našeho města.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Wir spielen mit Sand und schwimmen dort.'
+      img: 'Hrajeme si s pískem a plaveme tam.'
     }
   ]
 
