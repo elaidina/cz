@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Was denkst du darüber?'
+      img: 'Co si o tom myslíš?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Schalte das Licht aus.'
+      img: 'Zhasni světlo.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Wo spielst du mit deinen Freunden?'
+      img: 'Kde si hraješ se svými přáteli?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wann kommst du von der Arbeit nach Hause?'
+      img: 'Kdy se vracíš z práce?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Halt den Schraubenzieher.'
+      img: 'Podržte šroubovák.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ich schaue mir jeden Abend eine Gute-Nacht-Geschichte an.'
+      img: 'Každý večer se dívám na pohádku před spaním.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Kannst du erraten, was ich bin?'
+      img: 'Uhádneš, co jsem?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Pflanzen Sie Blumen und Bäume?'
+      img: 'Sázíte květiny a stromy?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ja, ich bin Gärtner.'
+      img: 'Ano, jsem zahradník.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Rate mal, woran ich denke.'
+      img: 'Hádej, na co myslím.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ist es ein Junge, ein Mädchen, ein Tier oder ein Ding?'
+      img: 'Je to chlapec, dívka, zvíře nebo věc?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Hängt es an der Wand?'
+      img: 'Vise to na zdi?'
     }
   ]
 

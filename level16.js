@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Sie freuen sich darauf, ihre Oma zu sehen.'
+      img: 'Těší se, až uvidí svoji babičku.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ihr Dorf ist nicht weit von der Stadt entfernt.'
+      img: 'Její vesnice není daleko od města.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Wir kommen mit ihnen mit.'
+      img: 'Jdeme spolu s nimi.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Kannst du auf uns warten?'
+      img: 'Můžeš na nás počkat?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ich muss alle fragen.'
+      img: 'Musím se zeptat všech.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Wir werden durch die Stadt gehen.'
+      img: 'Budeme procházet městem.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Wir werden viele Autos, Geschäfte und große Häuser sehen können."
+      img: "Budeme moci vidět spoustu aut, obchodů a velkých domů."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Auf den Straßen gibt es viele Menschen.'
+      img: 'V ulicích je spousta lidí.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Zeigen Sie mir bitte den Weg.'
+      img: 'Ukaž mi cestu, prosím.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Gehen Sie geradeaus und biegen Sie dann links ab.'
+      img: 'Jděte rovně a pak zahněte doleva.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Biegen Sie an der riesigen Brücke rechts ab.'
+      img: 'U obrovského mostu odbočte doprava.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Rechts ist mein Lieblingsgeschäft und links eine Kirche.'
+      img: 'Vpravo je můj oblíbený obchod a vlevo kostel.'
     }
   ]
 

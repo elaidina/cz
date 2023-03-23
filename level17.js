@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Wir nähern uns dem Wald..'
+      img: 'Blížíme se k lesu.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Wir können nicht mit dem Auto in den Wald fahren.'
+      img: 'Autem do lesa nemůžeme.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mir gefällt es hier sehr gut.'
+      img: 'Moc se mi tu líbí..'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wir können auf der Wiese spielen.'
+      img: 'Můžeme si hrát na louce.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Schau, da ist ein Schmetterling auf dieser Blume.'
+      img: 'Podívej, na té květině je motýl.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Möchtest du Pilze und Erdbeeren pflücken?'
+      img: 'Chtěl bys sbírat houby a jahody?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Mein Freund lebt in einem Haus in der Nähe des Flusses.'
+      img: 'Můj přítel žije v domě blízko řeky.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Er spielt jeden Tag mit seinem Hund.'
+      img: 'Každý den si hraje se svým psem.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Beobachten Sie manchmal Pferde und Kühe auf der Wiese?'
+      img: 'Sleduješ někdy koně a krávy na louce?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ich habe Angst vor diesem großen Hund.'
+      img: 'Bojím se toho velkého psa.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ich will Dir etwas zeigen.'
+      img: 'Chci ti něco ukázat.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Willst du Schweine und Ferkel sehen?'
+      img: 'Chceš vidět prase a selata?'
     }
   ]
 

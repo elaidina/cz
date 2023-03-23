@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Rydd opp i dette rommet, vær så snillRäumen Sie dieses Zimmer bitte auf.'
+      img: 'Ukliďte tento pokoj, prosím.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ich suche mein Kissen.'
+      img: 'Hledám svůj polštář.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Lasst uns unsere Puppen anziehen.'
+      img: 'Pojďme obléknout naše panenky.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Was trägt die Puppe?'
+      img: 'Co má panenka na sobě?'
     },
     {
       name: '5',
@@ -39,11 +39,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Die Puppe hat eine blaue Unterhose, eine grüne Hose, ein gelbes T-Shirt, kleine Schuhe und eine grüne Jacke.'
+      img: 'Panenka má modré spodky, zelené kalhotky, žluté tričko, botičky a zelenou bundu.'
     },
     {
       name: '6',
-      img: 'You look so lovely in this dress.'
+      img: 'V těch šatech vypadáš tak krásně.'
     },
     {
       name: '6',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Sie trägt einen roten Rock, weiße Nickerchen, blaue Strumpfhosen, eine weiße Bluse und eine grüne Jacke.'
+      img: 'Má na sobě červenou sukni, bílé kalhotky, modré punčocháče, bílou halenku a zelené sako.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Sie machen heute einen Ausflug.'
+      img: 'Dneska jedou na výlet.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Sie müssen viele Sachen packen.'
+      img: 'Potřebují zabalit spoustu věcí.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ich will nicht aufstehen.'
+      img: 'Nechci vstávat.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Du ziehst deine Turnschuhe an und du bist bereit zu gehen.'
+      img: 'Oblékneš si tenisky a můžeš vyrazit.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Die ganze Familie fährt heute aufs Land.'
+      img: 'Celá rodina jede dnes na venkov.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Bewegt es sich?'
+      img: 'Hýbe se to?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Wie gehst du zur Schule?'
+      img: 'Jak jezdíš do školy?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Zu Fuß, mit dem Bus, mit der Straßenbahn oder mit dem Auto?'
+      img: 'Pěšky, autobusem, tramvají nebo autem?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wir werden in der Küche einen Salat machen.'
+      img: 'V kuchyni uděláme salát.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Wir brauchen ein Messer, einen Löffel, eine Schüssel, Karotten, eine Gurke, einen Kohl, Erbsen, etwas Zucker und Zitronensaft.'
+      img: 'Potřebujeme nůž, lžíci, misku, mrkev, jednu okurku, zelí, hrášek, trochu cukru a citronovou šťávu.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Zuerst schneiden wir das Gemüse.'
+      img: 'Nejprve si nakrájíme zeleninu.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Dann mischen wir alle Zutaten zusammen.'
+      img: 'Pak smícháme všechny ingredience dohromady.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Schließlich bringen wir alles auf Teller.'
+      img: 'Nakonec dáme všechno na talíře.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Der Salat ist sehr lecker.'
+      img: 'Ten salát je velmi chutný.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Mein Zimmer ist in einem Chaos.'
+      img: 'V mém pokoji je nepořádek.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Überall gibt es Klamotten.'
+      img: 'Všude je oblečení.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Alle meine Bücher und Spielsachen liegen auf dem Boden.'
+      img: 'Všechny moje knihy a hračky jsou na podlaze.'
     }
   ]
 

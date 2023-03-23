@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ich mache dir einen Tee.'
+      img: 'Uvařím ti čaj.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Er hat Halsschmerzen und Kopfschmerzen.'
+      img: 'Bolí ho v krku a hlava.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Sie haben alle Bauchschmerzen.'
+      img: 'Všechny bolí bříško.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Was ist los mit mir?'
+      img: 'Co je to se mnou?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Wir müssen zu Hause bleiben.'
+      img: 'Musíme zůstat doma.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ich will mich nicht erkälten.'
+      img: 'Nechci se nachladit.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ich esse weiterhin viel Obst und Gemüse und trinke warmen Tee mit Zitrone und Honig.'
+      img: 'Pořád jím hodně ovoce a zeleniny a piju teplý čaj s citronem a medem.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Reinige deine Nase mit einem Taschentuch.'
+      img: 'Utři si nos kapesníčkem.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Komm mit mir.'
+      img: 'Pojď se mnou.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Du kannst mir helfen, wenn du möchtest.'
+      img: 'Můžeš mi pomoct, jestli chceš.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Sie wird am Nachmittag zurückkommen.'
+      img: 'Vrátí se odpoledne.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Ich will abends fernsehen."
+      img: "Chci se večer dívat na televizi."
     }
   ]
 
