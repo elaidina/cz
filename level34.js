@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Aber das Mädchen war nicht nur ein Mädchen.'
+      img: 'Ale ta dívka nebyla jen dívka.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Sie war eine Hexe.'
+      img: 'Byla to čarodějnice.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Sie wusste, wie man Geister fängt.'
+      img: 'Věděla, jak chytat duchy.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ich hoffe, es gibt noch mehr!'
+      img: 'Doufám, že jich bude víc!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Sie machte weiter, bis sie alle Geister im Haus gefangen hatte.'
+      img: 'Pokračovala, dokud nechytila všechny duchy v domě.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Dann ging sie in die Küche.'
+      img: 'Pak šla do kuchyně.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Sie hat sie alle in die Waschmaschine gesteckt.'
+      img: 'Všechny je dala do pračky.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Als sie sauber waren, hat sie sie im Garten aufgehängt.'
+      img: 'Když byly čisté, pověsila je na zahradu.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Es war schönes Wetter zum Trocknen.'
+      img: 'Bylo dobré počasí na sušení.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Nach dem Trocknen wurden die meisten Geister zu schönen Vorhängen.'
+      img: 'Po vysušení se z většiny duchů staly pěkné závěsy.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Einer von ihnen hat ein gutes Tischtuch gemacht.'
+      img: 'Jeden z nich vytvořil dobrý ubrus.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Sie waren alle sehr nützlich.'
+      img: 'Všechny byly velmi užitečné.'
     }
   ]
 

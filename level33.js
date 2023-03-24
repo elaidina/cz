@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Papa hat uns mit seinem Auto abgeholt.'
+      img: 'Táta nás přijel vyzdvihnout ve svém autě.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Er hat uns in unsere Sicherheitssitze gesetzt und unsere Sicherheitsgurte angelegt.'
+      img: 'Posadil nás na naše bezpečnostní sedadla a zapnul nám bezpečnostní pásy.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Hast du dich amüsiert?'
+      img: 'Užili jste si to?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ich habe Tom das Leben gerettet.'
+      img: 'Zachránil jsem Tomovi život.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Gut gemacht.'
+      img: 'Dobrá práce.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jetzt blättere um.'
+      img: 'Teď otoč stránku.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hilf mir, das Rätsel zu lösen.'
+      img: 'Pomozte mi vyřešit hádanku.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Zeigen Sie auf die Dinge, die gefährlich sein könnten.'
+      img: 'Ukaž na věci, které by mohly být nebezpečné.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Das ist ein Spukhaus.'
+      img: 'Tohle je strašidelný dům.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Es war einmal ein Mädchen.'
+      img: 'Byla jednou jedna dívka.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Sie zog in dieses große alte Haus, um dort zu leben.'
+      img: 'Odešla bydlet do tohoto velkého starého domu.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Es war ein herrlicher Ort.'
+      img: 'Bylo to skvělé místo.'
     }
   ]
 

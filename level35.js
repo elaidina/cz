@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Die kleine Hexe begann sich nach ihrer harten Arbeit sehr müde zu fühlen.'
+      img: 'Malá čarodějnice se po tvrdé práci začala cítit velmi unavená.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Sie lebten alle glücklich bis ans Ende ihrer Tage.'
+      img: 'Všichni žili šťastně až do smrti.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Schau nach oben und schau nach unten.'
+      img: 'Podívejte se nahoru a podívejte se dolů.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Das Dach hat ein Leck.'
+      img: 'Na střeše zatéká.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Es ist leicht zu reparieren.'
+      img: 'Je snadné to opravit.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Aber wie kommst du da hoch?'
+      img: 'Ale jak se tam nahoru dostaneš?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ich kann nicht hochklettern.'
+      img: 'Nemohu vylézt nahoru.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Es ist viel zu steil.'
+      img: 'Je to příliš strmé.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ich muss mir eine Leiter leihen.'
+      img: 'Musím si půjčit žebřík.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Das Kind hüpft über die Pfützen und stolpert.'
+      img: 'To dítě skáče přes kaluže a zakopne.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Sie erklärt, wie der Regen in ihren Tee tropfte.'
+      img: 'Vysvětluje, jak jí do čaje kapal déšť.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Mein Fenster lässt sich nicht schließen.'
+      img: 'Moje okno se nezavře.'
     }
   ]
 
