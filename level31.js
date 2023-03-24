@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Es war fast Zeit für den Tee, also gingen sie alle nach drinnen, um sich die Hände zu waschen.'
+      img: 'Už byl skoro čas na čaj, tak si všichni šli umýt ruce.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Tom hat das Treppengitter aufgemacht und Josie hat ihrer Schwester geholfen, die Treppe hinaufzusteigen.'
+      img: 'Tom uvolnil schodišťovou bránu a Josie pomohla své sestře vylézt po schodech.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ich habe darauf geachtet, dass das Wasser nicht zu heiß ist.'
+      img: 'Ujistil jsem se, že voda není příliš horká.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wir haben uns alle die Hände gewaschen.'
+      img: 'Všichni jsme si umyli ruce.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ich wollte aus dem Badezimmerfenster schauen.'
+      img: 'Chtěl jsem se podívat z okna koupelny.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Sei bitte vorsichtig.'
+      img: 'Buď opatrný, prosím.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Es ist nicht sicher, sich aus Fenstern zu lehnen.'
+      img: 'Není bezpečné vyklánět se z oken.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Das hatte ich nicht vor.'
+      img: 'Nechystal jsem se.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Tom ist aus dem Badezimmer gerannt und hat die Tür zugehalten.'
+      img: 'Tom vyběhl z koupelny a držel dveře zavřené.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Lass mich raus, Tom.'
+      img: 'Pusť mě ven, Tome.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Es ist gefährlich, mit Türen zu spielen.'
+      img: 'Je nebezpečné hrát si s dveřmi.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jemand könnte sich die Finger einklemmen.'
+      img: 'Někomu by mohly uvíznout prsty.'
     }
   ]
 

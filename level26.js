@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Der Boden und die Wände sind nass.'
+      img: 'Podlaha a stěny jsou mokré.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Sie gehorcht nie.'
+      img: 'Ona nikdy neposlouchá.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Opa muss eine riesige Rübe ausreißen.'
+      img: 'Děda musí vytáhnout obří řepu.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Er zieht und zieht die Rübe, aber er kann sie nicht herausziehen.'
+      img: 'Táhne a tahá řepu, ale nemůže ji vytáhnout.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Er muss seinen Enkel anrufen.'
+      img: 'Musí zavolat svému vnukovi..'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Sie ziehen, bis die Rübe herauskommt.'
+      img: 'Táhnou, dokud řepa nevyleze.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Sie fallen alle auf den Boden und lachen.'
+      img: 'Všichni padají na zem a smějí se.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Warum können Tiere nicht sprechen?'
+      img: 'Proč zvířata nemluví?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Sie können, aber wir verstehen sie nicht.'
+      img: 'Mohou, ale my jim nerozumíme.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Diese Henne erzählt ihren Küken Geschichten.'
+      img: 'Ta slepice vypráví příběhy svým kuřatům.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Um was geht es in der Geschichte?'
+      img: 'O čem je ten příběh?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Erzähl mir bitte die Geschichte.'
+      img: 'Řekni mi ten příběh, prosím.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Bevor mich jemand aufhalten konnte, ging ich nach Hause.'
+      img: 'Než mě mohl někdo zastavit, šel jsem domů.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Sie konnten mich nirgendwo finden.'
+      img: 'Nikde mě nemohli najít.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Als wir das neue Haus erreichten, fühlten wir uns elend.'
+      img: 'Když jsme dorazili do nového domu, cítili jsme se mizerně.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ich hatte gerade eine glänzende Idee!'
+      img: 'Právě jsem dostal skvělý nápad!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Einer meiner Schnürsenkel ging auf und ich trat darauf.'
+      img: 'Jedna z mých tkaničkek se rozvázala a já na ní šlápl.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ich musste meine Schnürsenkel richtig binden.'
+      img: 'Musel jsem si pořádně zavázat tkaničky.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Er ist mit dem Auto weggefahren.'
+      img: 'Odjel v autě.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Mama war nicht sehr zufrieden mit mir.'
+      img: 'Maminka se mnou nebyla moc spokojená.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Det var så mye å gjøreEs gab so viel zu tun.'
+      img: 'Bylo toho tolik k práci.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Lass uns gehen und auf diesen Baum klettern.'
+      img: 'Pojďme a vylezme na ten strom.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'In dieser Nacht habe ich zum ersten Mal in meinem neuen Schlafzimmer geschlafen.'
+      img: 'Tu noc jsem poprvé spal ve své nové ložnici.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Bald war ich in meinem neuen Zuhause eingeschlafen.'
+      img: 'Brzy jsem spal ve svém novém domově.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Ich habe deine Babys gefunden."
+      img: "Našel jsem vaše děti."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Tu das nicht!'
+      img: 'Nedělej to!'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Wenn es rot ist, müssen wir anhalten und warten, bis es wieder grün ist.'
+      img: 'Když je červená, musíme zastavit a počkat, až bude zase zelená.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Halte dich fest an meinen Händen.'
+      img: 'Držte se pevně mých rukou.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Das ist eine sehr stark befahrene Straße.'
+      img: 'Toto je velmi frekventovaná silnice.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Wir müssen eine sichere Überfahrt finden.'
+      img: 'Musíme najít bezpečný přechod.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Schau mal, da sind Ampeln.'
+      img: 'Hele, tam jsou semafory.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ich drückte auf den Knopf und bald hörte der Verkehr auf.'
+      img: 'Stiskl jsem tlačítko a brzy se provoz zastavil.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Das grüne Männchen hat uns gezeigt, dass wir jetzt überqueren sollten.'
+      img: 'Zelený muž nám ukázal, že bychom teď měli přejít.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Er hat gepiepst, um uns zur Eile zu bringen.'
+      img: 'Zapípal, aby nás pospíšil.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Sie war erfreut, ihre Freundin zu sehen.'
+      img: 'Byla ráda, že vidí svého přítele.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Sie haben im Garten Fußball gespielt.'
+      img: 'Hráli fotbal na zahradě.'
     }
   ]
 

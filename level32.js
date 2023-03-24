@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Stell dich nicht in die Nähe des Herdes.'
+      img: 'Nestojte blízko sporáku.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Es ist sehr heiß und Sie könnten sich verbrennen.'
+      img: 'Je to velmi horké a mohl by ses popálit.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Oh nein, ich habe meine Milch verschüttet.'
+      img: 'Ach ne, rozlil jsem své mléko.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Tom holte einen Mopp aus dem Putzschrank.'
+      img: 'Tom šel pro mop do úklidové skříně.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'In dem Schrank waren alle Dinge, die wir brauchen, um das Haus sauber zu halten.'
+      img: 'Uvnitř skříně byly všechny věci, které potřebujeme k udržení čistoty v domě.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Was für eine Menge Flaschen!'
+      img: 'Kolik lahví!'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ich halte die Schranktür verschlossen.'
+      img: 'Nechávám dveře skříně zamčené.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Nach dem Tee haben wir uns einen Film im Fernsehen angeschaut.'
+      img: 'Po čaji jsme se dívali na film v televizi.'
     },
     {
       name: '9',
@@ -75,11 +75,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'The cat has a tiny toy.'
+      img: 'Ta kočka si hrála na podlaze.'
     },
     {
       name: '10',
-      img: '"Die Katze hat ein kleines Spielzeug.'
+      img: 'Ta kočka má malou hračku.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Spuck es aus!'
+      img: 'Vyplivni to!'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Du könntest es verschlucken und daran ersticken.'
+      img: 'Mohl bys to spolknout a udusit se.'
     }
   ]
 
