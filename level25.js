@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'The little girl can button the sweater but she can´t zip the jacket up.'
+      img: 'The little girl can button the sweater but she can not zip the jacket up.'
     },
     {
       name: '9',

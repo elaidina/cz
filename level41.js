@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Auf dem Heimweg kamen sie an einem Süßwarenladen vorbei.'
+      img: 'Cestou domů prošli kolem cukrárny.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ich hätte gerne ein paar Süßigkeiten, aber ich will keine Zahnschmerzen wie Tom.'
+      img: 'Chtěl bych sladkosti, ale nechci, aby mě bolely zuby jako Toma.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Es gibt andere schmackhafte Dinge, die besser für dich sind.'
+      img: 'Existují jiné chutné věci, které jsou pro tebe lepší.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Also haben sie beim Gemüsehändler zwei knackige Äpfel gekauft.'
+      img: 'Tak si koupili od zelináře dvě křupavá jablka.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Dann sind sie in die Apotheke gegangen, um neue Zahnbürsten zu kaufen.'
+      img: 'Pak šli do lékárny koupit nové zubní kartáčky..'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Der Apotheker hat ihnen von der Offenlegung von Tabletten erzählt.'
+      img: 'Chemik jim řekl o odhalovacích tabletách.'
     },
     {
       name: '7',

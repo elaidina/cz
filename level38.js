@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Sie hat sich eine Einwegmaske über Nase und Mund gelegt.'
+      img: 'Na nos a ústa si dala jednorázovou masku.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Wofür ist das?'
+      img: 'K čemu to je?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Damit ich dich nicht anhauche.'
+      img: 'Abych přes tebe nedýchal.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Du bist jetzt dran.'
+      img: 'Teď jsi na řadě.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Sie hat ein kleines Loch in einem von Toms Zähnen gefunden.'
+      img: 'Našla malou dírku v jednom z Tomových zubů.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ich werde dieses Loch reinigen und eine Füllung hinein tun.'
+      img: 'Vyčistím tu díru a dám do ní náplň.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Es wird verhindern, dass Essensreste hineinkommen und unangenehm werden.'
+      img: 'Zabrání tomu, aby se kusy jídla dostaly dovnitř a staly se nepříjemnými.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Das Saugrohr in Toms Mund machte komische Sauggeräusche.'
+      img: 'Sací hadička v Tomových ústech vydávala legrační zvuky při sání.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Dann benutzte sie einen flinken Bohrer, um das Loch in Toms Zahn zu säubern.'
+      img: 'Pak použila vrtačku, aby vyčistila díru v Tomově zubu.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Die Krankenschwester hat Tom ein Glas rosa Wasser gegeben, um ihren Mund auszuspülen.'
+      img: 'Sestra dala Tomovi sklenici růžové vody, aby si vypláchla ústa.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Der Zahnarzt hat das Loch mit einem kleinen Luftgebläse getrocknet, damit die Füllung innen festsitzt.'
+      img: 'Zubař otvor vysušil malým dmychadlem, aby výplň uvnitř pevně přilnula.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Die Krankenschwester hat ein bisschen Silberfüllung gemischt.'
+      img: 'Sestra namíchala malý kousek stříbrné náplně.'
     }
   ]
 

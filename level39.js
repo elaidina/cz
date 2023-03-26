@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Tom hat sie beobachtet.'
+      img: 'Tom ji sledoval.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mrs White hat die Silberfeile in das Loch von Toms Zahn geschoben.'
+      img: 'Paní Whiteová strčila stříbrnou plombu do otvoru Tomova zubu.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Sie drückte es nach unten und machte es perfekt glatt.'
+      img: 'Stlačila to dolů a udělala to dokonale hladké.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'So gut wie neu!'
+      img: 'Dobré jako nové!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hat es wehgetan?'
+      img: 'Bolelo to?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Der Bohrer war laut.'
+      img: 'Vrtačka byla hlučná.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Aber es tat nicht weh.'
+      img: 'Ale nebolelo to.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ihr habt beide gute Zähne.'
+      img: 'Oba máte dobré zuby.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Lass sie so.'
+      img: 'Drž je tak.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Essen Sie viele verschiedene Lebensmittel.'
+      img: 'Jezte spoustu různých potravin.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Aber denken Sie daran, dass süße Speisen Ihren Zähnen schaden können, also essen Sie sie nicht zu oft.'
+      img: 'Ale pamatujte, že sladká jídla mohou poškodit vaše zuby, takže je nejezte příliš často.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Vergiss nie, deine Zähne morgens und vor dem Schlafengehen mit einer fluoridhaltigen Zahnpasta zu putzen."
+      img: "Nikdy si nezapomeňte vyčistit zuby ráno a před spaním floridovou zubní pastou."
     }
   ]
 

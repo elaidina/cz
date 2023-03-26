@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Es war Zeit für Tom, einkaufen zu gehen.'
+      img: 'Byl čas, aby se Tom vydal na nákup.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Während ich im Wartezimmer saß, hat sie Comics gelesen.'
+      img: 'Zatímco jsem seděl v čekárně, ona si četla komiksy.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Die Tür ging auf und heraus kam der Präsident.'
+      img: 'Dveře se otevřely a vyšel z nich prezident.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Tom hat mich angelächelt.'
+      img: 'Tom se na mě usmál.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Warum musst du eine Zahnspange tragen?'
+      img: 'Proč musíš nosit na zubech rovnátko?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Um meine Zähne gerade zu machen.'
+      img: 'Abych měl rovné zuby.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Laura ist bereit, dich jetzt zu sehen.'
+      img: 'Laura je připravena tě hned vidět.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Das ist ein schöner sauberer Geruch.'
+      img: 'Tohle je pěkná čistá vůně.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Wer will zuerst gehen?'
+      img: 'Kdo chce jít první?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Tom ist in den Zahnarztstuhl geklettert.'
+      img: 'Tom si vlezl do zubařského křesla.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mrs White drückte einen Knopf und der Stuhl kippte zurück.'
+      img: 'Paní Whiteová stiskla tlačítko a židle se naklonila dozadu.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Tom fühlte sich wie ein Raketenpilot.'
+      img: 'Tom se cítil jako pilot rakety.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Und iss und trink nicht im Bett.'
+      img: 'A nejez a nepi v posteli.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Nicht einmal Wasser?'
+      img: 'Dokonce ani vodu?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Nur Wasser.'
+      img: 'Jenom vodu.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Süßgetränke können Ihren Zähnen genauso schaden wie süßes Essen.'
+      img: 'Sladké nápoje mohou poškodit zuby stejně jako sladké jídlo.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Komm zurück und sieh mich bald wieder.'
+      img: 'Vraťte se a brzy mě navštivte.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Bevor sie nach Hause gingen, schrieb die Empfangsdame das Datum ihres nächsten Besuchs auf.'
+      img: 'Než odešli domů, recepční zapsala datum jejich příští návštěvy.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Der kleine Junge hat versucht, nicht zu weinen.'
+      img: 'Ten malý chlapec se snažil nebrečet.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Was ist los Tom?'
+      img: 'Co se děje, Tome?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ich habe Zahnschmerzen.'
+      img: 'Mám bolesti zubů.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Er isst zu viele Süßigkeiten.'
+      img: 'Jí příliš mnoho sladkostí.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Macht nichts.'
+      img: 'Nevadí.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Mrs White wird es besser machen.'
+      img: 'Paní Whiteová to vylepší.'
     }
   ]
 

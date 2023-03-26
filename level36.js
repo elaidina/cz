@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Es steckt fest.'
+      img: 'Je to zaseknuté.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Er tut, was er kann, um die Lücke zu schließen.'
+      img: 'Dělá, co může, aby zacelil mezeru.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Das Problem ist, dass dein Glas zu dünn ist.'
+      img: 'Problém je v tom, že máš příliš tenké sklo.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Fahr langsam zurück.'
+      img: 'Jeďte pomalu zpátky.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Mach in den Kurven langsamer.'
+      img: 'V zatáčkách zpomalte.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Er wird abstürzen.'
+      img: 'Bude havarovat.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Was für eine Menge Pech.'
+      img: 'Jaká velká smůla.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Wenn dieser Regen nur nicht in seinen Tee getropft wäre.'
+      img: 'Kéžby mu ten déšť nekapal do čaje.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Er hat vergessen, seinen Wasserhahn in der Badewanne abzustellen.'
+      img: 'Zapomněl vypnout kohoutek ve vaně.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Das buch gehört mir.'
+      img: 'Tato kniha patří mně.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ich muss zum Zahnarzt.'
+      img: 'Musím k zubaři.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Dieses Buch gehört ihm.'
+      img: 'Tato kniha patří jemu.'
     }
   ]
 
