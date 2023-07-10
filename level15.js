@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Du siehst so hübsch aus in diesem Kleid.'
+      img: 'You look so beautifull in this dress.'
     },
     {
       name: '7',

@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Vise to na zdi?'
+      img: 'Visí to na zdi?'
     }
   ]
 

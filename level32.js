@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Die Katze hat auf dem Boden gespielt.'
+      img: 'Ta kočka si hrála na podlaze.'
     },
     {
       name: '10',
-      img: 'Ta kočka si hrála na podlaze.'
+      img: 'The cat has a little toy.'
     },
     {
       name: '10',

@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Musí zavolat svému vnukovi..'
+      img: 'Musí zavolat svému vnukovi.'
     },
     {
       name: '6',

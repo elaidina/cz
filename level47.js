@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Die frechen Jungs hatten einen Fußball hart gegen Toms Zelt getreten.'
+      img: 'The naughty boys had kicked a football hard at Tom´s tent.'
     }
   ]
 

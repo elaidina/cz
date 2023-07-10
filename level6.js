@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Stavím lego auto."
+      img: "Stavím auto z lega."
     },
     {
       name: '6',

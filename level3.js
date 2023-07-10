@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "e to vaše taška?"
+      img: "Je to vaše taška?"
     },
     {
       name: '2',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Vypadáš jako dítě..'
+      img: 'Vypadáš jako dítě.'
     },
     {
       name: '10',

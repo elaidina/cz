@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Můj strýc je velmi šikovný..'
+      img: 'Můj strýc je velmi šikovný.'
     },
     {
       name: '10',

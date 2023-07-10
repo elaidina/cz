@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Pak šli do lékárny koupit nové zubní kartáčky..'
+      img: 'Pak šli do lékárny koupit nové zubní kartáčky.'
     },
     {
       name: '6',
